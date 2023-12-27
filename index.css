@@ -239,3 +239,66 @@
   margin-right: 20px;
   color: #5f6266;
 }
+.content7{
+  height: 360px;
+  background-color:#393e46 ;
+  display: flex;
+}
+.c7img{
+  background-image: url(trials6.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 50%;
+  height: 100%;
+}
+.c7container{
+  display: grid;
+
+  color: #ffffff;
+}
+.content8{
+  background-color: rgba(136, 92, 156, 1);
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: #ffffff;
+}
+.c8column2{
+  background-color:#0bd685 ;
+  height: 60px;
+  width: 200px;
+  color: #ffffff;
+  border: none;
+}
+.content9{
+  background-color: #1d1f21;
+  height: 250px;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.c9column {
+  display: grid;
+}
+.emailinput{
+  color: #ffffff;
+  background-color: #5f6266;
+  height: 30px;
+  width: 150px;
+  margin-top: 15px;
+  border: none;
+}
+.button3{
+  height: 33px;
+  width: 50px;
+  color: #ffffff;
+  background-color: #5f6266;
+  margin-top: 2px;
+  margin-top: 15px;
+}
+.c9column p {
+  color: #909499;
+  font-size: 14px;
+}
